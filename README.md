@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### "Olá pessoas!" \o/ 👋
-
-My name is Franklin Fernandes, I'm from Brazil (🇧🇷) and I'm Software Engineer Specialist. I've been working with Tech since 2007.
+My name is Franklin Fernandes and I'm Software Engineer Specialist. I've been working with technology since 2007.
 
 Would you like to find me?
 
